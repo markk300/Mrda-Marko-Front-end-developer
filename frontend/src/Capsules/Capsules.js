@@ -45,7 +45,7 @@ export const Capsules = () => {
               )}
             />
           ) : (
-            <div className="loader">no CAPSULES</div>
+            <div className="loader">No CAPSULES</div>
           )}
         </div>
       </div>
